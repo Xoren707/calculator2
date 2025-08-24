@@ -1,0 +1,318 @@
+.Body {
+    width: 280px;
+    height: 600px;
+    background-color: black;
+    border-radius: 30px;
+    padding: 15px;
+}
+
+.first-cell {
+    background-color: grey;
+    width: 60px;
+    height: 60px;
+    font-size: 31px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.second-cell {
+    background-color: grey;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.third-cell {
+    background-color: grey;
+    width: 60px;
+    height: 60px;
+    font-size: 31px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.fourth-cell {
+    background-color: orange;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.first-line {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.secondline-first-cell {
+    background-color: grey;
+    width: 60px;
+    height: 60px;
+    font-size: 31px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.secondline-second-cell {
+    background-color: grey;
+    width: 60px;
+    height: 60px;
+    font-size: 31px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.secondline-third-cell {
+    background-color: grey;
+    width: 60px;
+    height: 60px;
+    font-size: 31px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.secondline-fourth-cell {
+    background-color: orange;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.second-line {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.thirdline-first-cell {
+    background-color: grey;
+    width: 60px;
+    height: 60px;
+    font-size: 31px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.thirdline-second-cell {
+    background-color: grey;
+    width: 60px;
+    height: 60px;
+    font-size: 31px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.thirdline-third-cell {
+    background-color: grey;
+    width: 60px;
+    height: 60px;
+    font-size: 31px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.thirdline-fourth-cell {
+    background-color: orange;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.third-line {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.fourthline-first-cell {
+    background-color: grey;
+    width: 60px;
+    height: 60px;
+    font-size: 31px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.fourthline-second-cell {
+    background-color: grey;
+    width: 60px;
+    height: 60px;
+    font-size: 31px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.fourthline-third-cell {
+    background-color: grey;
+    width: 60px;
+    height: 60px;
+    font-size: 31px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.fourthline-fourth-cell {
+    background-color: orange;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.fourth-line {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.fifthline-first-cell {
+    background-color: grey;
+    width: 130px;
+    height: 60px;
+    font-size: 31px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+}
+
+
+.fifthline-third-cell {
+    background-color: grey;
+    width: 60px;
+    height: 60px;
+    font-size: 31px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.fifthline-fourth-cell {
+    background-color: orange;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.fifth-line {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.middle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 100px 6px;
+}
+
+.header-images {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+
+.time {
+    font-size: 17px;
+    color: white;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    gap: 138px;
+    padding-left: 20px;
+}
+
+.number {
+    font-size: 60px;
+    color: white;
+}
+
+.Iphone {
+    font-size: 100px;
+    color: black;
+}
+
+.NAME {
+    display: flex;
+    flex-direction: column;
+}
+
+.name-section {
+    position: absolute;
+    top: 200px;
+    left: 500px;
+}
+    
